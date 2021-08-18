@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+.title {
+  font-family: 'sans-serif';
+  padding: 15px;
+  background-color: rgb(122, 141, 163);
+}
+
+.l {
+  width: 450px;
+  margin: 100px auto;
+}
